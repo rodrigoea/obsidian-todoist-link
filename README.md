@@ -11,6 +11,10 @@ Go to the settings and add your Todoist API Key. You get your todoist API key [h
 
 `Create Todoist Task` will create a new Todoist task in the Inbox from the current line in the Obsidian note and add deeplinks between the two for easy navigation.
 
+## Documentation
+
+For detailed usage instructions and examples, check out the [Docs](https://github.com/your-repo/todoist-link/docs](https://jamiebrynes7.github.io/obsidian-todoist-plugin/docs/overview)).
+
 ## Thanks & Attribution
 
 Thanks to [obsidian-things-link](https://github.com/gavinmn/obsidian-things-link) for providing the initial idea and the basic code to implement the plugin.
